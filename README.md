@@ -3,4 +3,4 @@
 - Login siam [x]
 - Jadwal Kuliah [x]
 - Absensi []
-- Neraca []
+- Neraca [x]
